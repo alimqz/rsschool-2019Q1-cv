@@ -2,19 +2,19 @@ Aliya Mukhametzhanova
 ============
 
 -------------------     ----------------------------
-Zh.Zhabayev st 47  
-aliyamdev@gmail.com  
+Zh.Zhabayev st 47   
 Astana 010000  
 Kazakhstan  
+aliyamdev@gmail.com  
 +7 702 5078363  
 
 Education
 ---------
 
 2003-2008
-:   ** **; Almaty Institute of Power Engineering and Telecommunications
+:   **Engineer**; Almaty Institute of Power Engineering and Telecommunications
 
-    *Engineer: Electronic systems and technology*
+    *Electronic systems and technology*
 
 2013-2014
 :   **Research visiting student: School of Computer Science** University of East Anglia;
@@ -30,11 +30,11 @@ Updated the design of web-pages
 
 Intern at the department of marketing
 
-* [link](https://www.linkedin.com/in/aliya-m-08b557173/)
+*LinkedIn personal information page [link](https://www.linkedin.com/in/aliya-m-08b557173/)
 
 **Senior Analyst at JSC National infocommunication Holding Zerde**
 
-.Responsible for the research of ICT development in particular countries
+.Responsible for the research of ICT development for particular countries
 
 **JSC, National information technology: specialist at the department of hardware and virtualization
 
@@ -42,7 +42,7 @@ Technical Experience
 --------------------
 
 Projects
-:   Participated on projects shanyraq.valis.kz and valis.kz
+:   Participated on projects https://shanyraq.valis.kz and https://valis.kz
 
 Open Source
 :   One paperwork on researchgate.org  
@@ -57,7 +57,7 @@ Programming Languages
 
 [ref]: reference letters from mentors(USA) and supervisors(UK) are provided.
 
-Interests
+Additional information
 ----------------------------------------
 
 * Foreign Languages:

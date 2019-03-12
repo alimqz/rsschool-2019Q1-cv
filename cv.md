@@ -48,12 +48,12 @@ Open Source
 :   One paperwork on researchgate.org  
 [link](https://www.researchgate.net/publication/263443136_Ahead_in_the_G-clouds_Policies_Deployment_and_Issues)
 
-Programming Languages
-**Oracle:** basic skills, had practice of work.
+Programming Languages  
+**Oracle:** basic skills, had experience of work.
 
-**HTML, CSS:** basic skills, had practice of work.
+**HTML, CSS:** basic skills, had experience of work.
 
-**Lotus Notes/Domino:** basic skills, had practice of work.
+**Lotus Notes/Domino:** basic skills, had experience of work.
 
 Reference letters from mentors(USA) and supervisors(UK) are provided.
 

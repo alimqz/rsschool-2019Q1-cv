@@ -12,9 +12,7 @@ Education
 ---------
 
 2003-2008
-:   **Engineer**; Almaty Institute of Power Engineering and Telecommunications
-
-    **Electronic systems and technology**
+:   **Engineer, Electronic systems and technology** Almaty Institute of Power Engineering and Telecommunications
 
 2013-2014
 :   **Research visiting student: School of Computer Science** University of East Anglia;

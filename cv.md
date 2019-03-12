@@ -30,13 +30,13 @@ Updated the design of web-pages
 
 Intern at the department of marketing
 
-*LinkedIn personal information page [link](https://www.linkedin.com/in/aliya-m-08b557173/)
+*LinkedIn personal information page* [link](https://www.linkedin.com/in/aliya-m-08b557173/)
 
 **Senior Analyst at JSC National infocommunication Holding Zerde**
 
 .Responsible for the research of ICT development for particular countries
 
-**JSC, National information technology: specialist at the department of hardware and virtualization
+**JSC, National information technology: specialist at the department of hardware and virtualization**
 
 Technical Experience
 --------------------
@@ -49,11 +49,11 @@ Open Source
 [link](https://www.researchgate.net/publication/263443136_Ahead_in_the_G-clouds_Policies_Deployment_and_Issues)
 
 Programming Languages
-:   **Oracle:** basic skills, had practice of work.
+**Oracle:** basic skills, had practice of work.
 
-:   **HTML, CSS:** basic skills, had practice of work.
+**HTML, CSS:** basic skills, had practice of work.
 
-:   **Lotus Notes/Domino:** basic skills, had practice of work.
+**Lotus Notes/Domino:** basic skills, had practice of work.
 
 [ref]: reference letters from mentors(USA) and supervisors(UK) are provided.
 

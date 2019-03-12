@@ -2,10 +2,11 @@ Aliya Mukhametzhanova
 ============
 
 -------------------     ----------------------------
-Zh.Zhabayev st 47                        aliyamdev@gmail.com
-Astana 010000
-Kazakhstan                           +7 702 5078363
--------------------     ----------------------------
+Zh.Zhabayev st 47  
+aliyamdev@gmail.com  
+Astana 010000  
+Kazakhstan  
++7 702 5078363  
 
 Education
 ---------
@@ -13,7 +14,7 @@ Education
 2003-2008
 :   ** **; Almaty Institute of Power Engineering and Telecommunications
 
-    *: Electronic systems and technology*
+    *Engineer: Electronic systems and technology*
 
 2013-2014
 :   **Research visiting student: School of Computer Science** University of East Anglia;
@@ -23,14 +24,13 @@ Experience
 
 **Valis: junior software developer**
 
-.Updated the design of web-pages
+Updated the design of web-pages
 
-**Juniper Networks**
+**Juniper Networks, MountainView USA**
 
-.intern at the department of marketing
+Intern at the department of marketing
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* [link](https://www.linkedin.com/in/aliya-m-08b557173/)
 
 **Senior Analyst at JSC National infocommunication Holding Zerde**
 
@@ -41,20 +41,12 @@ Experience
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to havse named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Projects
+:   Participated on projects shanyraq.valis.kz and valis.kz
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   One paperwork on researchgate.org  
+[link](https://www.researchgate.net/publication/263443136_Ahead_in_the_G-clouds_Policies_Deployment_and_Issues)
 
 Programming Languages
 :   **Oracle:** basic skills, had practice of work.
@@ -70,8 +62,8 @@ Interests
 
 * Foreign Languages:
 
-     * English
-     * Russian
-     * Kazakh
+     * English  
+     * Russian  
+     * Kazakh  
 
-* TechWomen fellow 2017
+* TechWomen fellow 2017  

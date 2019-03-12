@@ -14,7 +14,7 @@ Education
 2003-2008
 :   **Engineer**; Almaty Institute of Power Engineering and Telecommunications
 
-    *Electronic systems and technology*
+    **Electronic systems and technology**
 
 2013-2014
 :   **Research visiting student: School of Computer Science** University of East Anglia;
@@ -30,13 +30,13 @@ Updated the design of web-pages
 
 Intern at the department of marketing
 
-*LinkedIn personal information page* [link](https://www.linkedin.com/in/aliya-m-08b557173/)
+LinkedIn personal information page [link](https://www.linkedin.com/in/aliya-m-08b557173/)
 
 **Senior Analyst at JSC National infocommunication Holding Zerde**
 
 .Responsible for the research of ICT development for particular countries
 
-**JSC, National information technology: specialist at the department of hardware and virtualization**
+**JSC, National information technology:** specialist at the department of hardware and virtualization
 
 Technical Experience
 --------------------
@@ -55,7 +55,7 @@ Programming Languages
 
 **Lotus Notes/Domino:** basic skills, had practice of work.
 
-[ref]: reference letters from mentors(USA) and supervisors(UK) are provided.
+Reference letters from mentors(USA) and supervisors(UK) are provided.
 
 Additional information
 ----------------------------------------
